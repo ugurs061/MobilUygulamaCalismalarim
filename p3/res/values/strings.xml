@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="projeismi">proje3</string>
+    <string name="baslik">Option/ContextMenu</string>
+    
+    <string name="kirmizi">Kırmızı</string>
+    <string name="yesil">Yeşil</string>    
+    <string name="mavi">Mavi</string> 
+    
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">İnstagram </string>
+    <string name="whatsapp">WhatsApp</string>
+    
+    <string name="fb">Facebook Activty</string>
+    <string name="wp">WhatsApp Activty</string>
+    <string name="ig">Instagram Activty</string>
+    <string name="tw">Twitter Activty</string>
+    
+    
+</resources>
