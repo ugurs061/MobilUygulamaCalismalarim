@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        
+    </string-array>
+    <string-array name="ad">
+        
+        <item>ADANA DEMİRSPOR A.Ş</item>
+        <item>ALTAY</item>
+        <item>ATAKAŞ HATAYSPOR</item>
+        <item>AYTEMİZ ALANYASPOR</item>
+        <item>BEŞİKTAŞ A.Ş.</item>
+        <item>ÇAYKUR RİZESPOR A.Ş</item>
+        <item>DEMİR GRUP SİVASSPOR</item>
+        <item>FENERBAHÇE A.Ş</item>
+        <item>FRAPORT TAV ANTALYASPOR</item>
+        <item>GALATASARAY A.Ş</item>
+        <item>GAZİANTEP FUTBOL KULÜBÜ A.Ş</item>
+        <item>GÖZTEPE A.ŞÇ</item>
+        <item>GZT GİRESUNSPOR</item>
+        <item>İTTİFAK HOLDİNG KONYASPOR</item>
+        <item>KASIMPAŞA A.Ş.</item>
+        <item>MEDİPOL BAŞAKŞEHİR FK</item>
+        <item>ÖZNUR KABLO YENİ MALATYASPOR</item>
+        <item>TRABZONSPOR A.Ş.</item>
+        <item>VAVACARS FATİH KARAGÜMRÜK</item>
+        <item>YUKATEL KAYSERİSPOR</item>
+        
+    </string-array>
+    <string-array name="logo">
+        
+        <item>logo1</item>
+        <item>logo2</item>
+        <item>logo3</item>
+        <item>logo4</item>
+        <item>logo5</item>
+        <item>logo6</item>
+        <item>logo7</item>
+        <item>logo8</item>
+        <item>logo9</item>
+        <item>logo10</item>
+        <item>logo11</item>
+        <item>logo12</item>
+        <item>logo13</item>
+        <item>logo14</item>
+        <item>logo15</item>
+        <item>logo16</item>
+        <item>logo17</item>
+        <item>logo18</item>
+        <item>logo19</item>
+        <item>logo20</item>
+        
+    </string-array>
+    <string-array name="stad">
+        
+        <item>YENİ ADANA STADYUMU</item>
+        <item>BORNOVA AZİZ KOCAOĞLU STADYUMU</item>
+        <item>YENİ HATAY STADYUMU</item>
+        <item>BAHÇEŞEHİR OKULLARI STADYUMU</item>
+        <item>VODAFONE PARK</item>
+        <item>ÇAYKUR DİDİ</item>
+        <item>BAHÇEŞEHİR KOLEJİ SİVAS 4 EYLÜL STADYUMU</item>
+        <item>ÜLKER STADYUMU FB ŞÜKRÜ SARACOĞLU SPOR KOMPLEKSİ</item>
+        <item>ANTALYA STADYUMU</item>
+        <item>ALİ SAMİ YEN SPOR KOMPLEKSİ</item>
+        <item>KALYON STADYUMU</item>
+        <item>GÜRSEL AKSEL STADYUMU</item>
+        <item>ÇOTANAK SPOR KOMPLEKSİ</item>
+        <item>MEDAŞ KONYA BÜYÜKŞEHİR STADYUMU</item>
+        <item>RECEP TAYYİP ERDOĞAN STADYUMU</item>
+        <item>BAŞAKŞEHİR FATİH TERİM</item>
+        <item>YENİ MALATYA STADYUMU</item>
+        <item>ŞENOL GÜNEŞ SPOR KOMPLEKSİ</item>
+        <item>ATATÜRK OLİMPİYAT</item>
+        <item>BÜYÜKŞEHİR BELEDİYESİ KADİR HAS</item>
+        
+    </string-array>
+        <string-array name="sehir">
+        
+        <item>ADANA</item>
+        <item>İZMİR</item>
+        <item>HATAY</item>
+        <item>ANTALYA</item>
+        <item>İSTANBUL</item>
+        <item>RİZE</item>
+        <item>SİVAS</item>
+        <item>İSTANBUL</item>
+        <item>ANTALYA</item>
+        <item>İSTANBUL</item>
+        <item>GAZİANTEP</item>
+        <item>İZMİR</item>
+        <item>GİRESUN</item>
+        <item>KONYA</item>
+        <item>İSTANBUL</item>
+        <item>İSTANBUL</item>
+        <item>MALATYA</item>
+        <item>TRABZON</item>
+        <item>İSTANBUL</item>
+        <item>KAYSERİ</item>
+        
+    </string-array>
+        <string-array name="teknikdirektor">
+        
+        <item>Vincenzo Montella</item>
+        <item>Mustafa Denizli</item>
+        <item>Ömer Erdogan</item>
+        <item>Bülent Korkmaz</item>
+        <item>Sergen Yalcin</item>
+        <item>Hamza Hamzaoglu</item>
+        <item>Riza Calimbay</item>
+        <item>Vítor Pereira</item>
+        <item>Nuri Şahin</item>
+        <item>Fatih Terim</item>
+        <item>Erol Bulut</item>
+        <item>Nestor El Maestro</item>
+        <item>Hakan Keles</item>
+        <item>Ilhan Palut</item>
+        <item>Hakan Kutlu</item>
+        <item>Emre Belözoglu</item>
+        <item>Öznur Kablo</item>
+        <item>Abdullah Avci</item>
+        <item>Francesco Farioli</item>
+        <item>Hikmet Karaman</item>
+        
+    </string-array>
+        <string-array name="kaptan">
+        
+        <item>Younès Belhanda</item>
+        <item>Zeki Yildirim</item>
+        <item>Mame Diouf</item>
+        <item>Efecan Karaca</item>
+        <item>Domagoj Vida</item>
+        <item>Gökhan Gönül</item>
+        <item>Hakan Arslan</item>
+        <item>Mesut Özil</item>
+        <item>Veysel Sari</item>
+        <item>Fernando Muslera</item>
+        <item>Günay Güvenc</item>
+        <item>Halil Akbunar</item>
+        <item>Zeki Yavru</item>
+        <item>Ibrahim Sehic</item>
+        <item>Loret Sadiku</item>
+        <item>Edin Visca</item>
+        <item>Adem Büyük</item>
+        <item>Ugurcan Cakir</item>
+        <item>Lucas Biglia</item>
+        <item></item>
+        
+    </string-array>
+        <string-array name="baskan">
+        
+        <item>MURAT SANCAK</item>
+        <item>ÖZGÜR EKMEKÇİOĞLU</item>
+        <item>NİHAT TAZEARSLAN</item>
+        <item>HASAN ÇAVUŞOĞLU</item>
+        <item>AHMET NUR ÇEBİ</item>
+        <item>TAHİR KIRAN</item>
+        <item>MECNUN OTYAKMAZ</item>
+        <item>ALİ KOÇ</item>
+        <item>AZİZ ÇETİN</item>
+        <item>BURAK ELMAS</item>
+        <item>CEVDET AKINAL</item>
+        <item>MEHMET SEPİL</item>
+        <item>HAKAN KARAAHMET</item>
+        <item>FATİH ÖZGÖKÇEN</item>
+        <item>TURGAY CİNER</item>
+        <item>GÖKSEL GÜMÜŞDAĞ</item>
+        <item>ADİL GEVREK</item>
+        <item>AHMET ALİ AĞAOĞLU</item>
+        <item>SÜLEYMAN HURMA</item>
+        <item>BERNA GÖZBAŞI</item>
+        
+    </string-array>
+        <string-array name="kapasite">
+        
+        <item>33000</item>
+        <item>9138</item>
+        <item>5254</item>
+        <item>10128</item>
+        <item>42590</item>
+        <item>15332</item>
+        <item>27532</item>
+        <item>47834</item>
+        <item>32537</item>
+        <item>52223</item>
+        <item>33502</item>
+        <item>19713</item>
+        <item>21500</item>
+        <item>42000</item>
+        <item>13856</item>
+        <item>17156</item>
+        <item>25745</item>
+        <item>40782</item>
+        <item>74753</item>
+        <item>32864</item>
+        
+    </string-array>
+        
+        
+        
+        
+    
+    
+  
+</resources>
