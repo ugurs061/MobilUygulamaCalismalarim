@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        
+    </string-array>
+    <string-array name="ad">
+        
+        <item>Amerika</item>
+        <item>Almanya</item>
+        <item>Azerbaycan</item>
+        <item>Belçika</item>
+        <item>Brezilya</item>
+        <item>Çin</item>
+        <item>Danimarka</item>
+        <item>Güney Kore</item>
+        <item>Hindistan</item>
+        <item>İtalya</item>
+        <item>Japonya</item>
+        <item>Kanada</item>
+        <item>Meksika</item>
+        <item>Polonya</item>
+        <item>Portekiz</item>
+        <item>Rusya</item>
+        <item>Tayland</item>
+        <item>Tunus</item>
+        <item>Türkiye</item>
+        <item>Türkmenistan</item>
+        
+    </string-array>
+    <string-array name="logo">
+        
+        <item>abd</item>
+        <item>almanya</item>
+        <item>azerbaycan</item>
+        <item>belcika</item>
+        <item>brezilya</item>
+        <item>cin</item>
+        <item>danimarka</item>
+        <item>guneykore</item>
+        <item>hindistan</item>
+        <item>italya</item>
+        <item>japonya</item>
+        <item>kanada</item>
+        <item>meksika</item>
+        <item>polonya</item>
+        <item>portekiz</item>
+        <item>rusya</item>
+        <item>tayland</item>
+        <item>tunus</item>
+        <item>turkiye</item>
+        <item>turkmenistan</item>
+        
+    </string-array>
+    <string-array name="bolge">
+        
+        <item>Kuzey Amerika</item>
+        <item>Orta Avrupa</item>
+        <item>Kafkasya</item>
+        <item>Orta Avrupa</item>
+        <item>Güney Amerika</item>
+        <item>Doğu Asya</item>
+        <item>İskandinavya</item>
+        <item>Uzakdoğu</item>
+        <item>Hint Anakarası</item>
+        <item>Güney Avrupa</item>
+        <item>Uzakdoğu</item>
+        <item>Kuzey Amerika</item>
+        <item>Orta Amerika</item>
+        <item>Doğu Avrupa</item>
+        <item>Güney Avrupa</item>
+        <item>Avrupa</item>
+        <item>Uzakdoğu</item>
+        <item>Kuzeybatı Afrika</item>
+        <item>Orta Doğu</item>
+        <item>Orta Asya</item>
+        
+    </string-array>
+        <string-array name="parabirimi">
+        
+        <item>Amerikan Doları</item>
+        <item>Euro</item>
+        <item>Azerbaycan Manatı</item>
+        <item>Euro</item>
+        <item>Real</item>
+        <item>Çin Yuanı</item>
+        <item>Danimarka Kronu</item>
+        <item>Won</item>
+        <item>Rupi</item>
+        <item>Euro</item>
+        <item>Yen</item>
+        <item>Kanada Doları</item>
+        <item>Meksika Pesosu</item>
+        <item>Polonya Zlotisi</item>
+        <item>Euro</item>
+        <item>Rus Rublesi</item>
+        <item>Tayland Bahtı</item>
+        <item>Tunus Dinarı</item>
+        <item>Türk Lirası</item>
+        <item>Manat</item>
+        
+    </string-array>
+        <string-array name="nufus">
+        
+        <item>330.093.143</item>
+        <item>83.694.929</item>
+        <item>10.096.975</item>
+        <item>11.156.000</item>
+        <item>211.742.618</item>
+        <item>1.436.962.790</item>
+        <item>5.605.836</item>
+        <item>50.219.669</item>
+        <item>1.232.320.000</item>
+        <item>60.565.714</item>
+        <item>126.673.845</item>
+        <item>37.575.811</item>
+        <item>117.409.830</item>
+        <item>38.533.299</item>
+        <item>10.562.178</item>
+        <item>145.987.803</item>
+        <item>65.926.261</item>
+        <item>10.777.500</item>
+        <item>83.154.997</item>
+        <item>5.240.000</item>
+        
+    </string-array>
+        <string-array name="baskent">
+        
+        <item>Washington</item>
+        <item>Berlin</item>
+        <item>Bakü</item>
+        <item>Brüksel</item>
+        <item>Brasília</item>
+        <item>Pekin</item>
+        <item>Kopenhag</item>
+        <item>Seul</item>
+        <item>Yeni Delhi</item>
+        <item>Roma</item>
+        <item>Tokyo</item>
+        <item>Ottawa</item>
+        <item>Meksiko</item>
+        <item>Varşova</item>
+        <item>Lizbon</item>
+        <item>Moskova</item>
+        <item>Bangkok</item>
+        <item>Tunus</item>
+        <item>Ankara</item>
+        <item>Aşkabat</item>
+        
+    </string-array>
+        <string-array name="dil">
+        
+        <item>İngilizce</item>
+        <item>Almanca</item>
+        <item>Azerice</item>
+        <item>Fransızca</item>
+        <item>Portekizce</item>
+        <item>Çince</item>
+        <item>Danca, Almanca</item>
+        <item>Korece</item>
+        <item>Hintçe</item>
+        <item>İtalyanca</item>
+        <item>Japonca</item>
+        <item>İngilizce, Fransızca</item>
+        <item>İspanyolca</item>
+        <item>Lehçe</item>
+        <item>Portekizce, İspanyolca, Mirandaca</item>
+        <item>Rusça</item>
+        <item>Tayca</item>
+        <item>Arapça</item>
+        <item>Türkçe</item>
+        <item>Türkmence</item>
+        
+    </string-array>
+        <string-array name="baskan">
+        
+        <item>Joe Biden</item>
+        <item>Frank-Walter Steinmeier</item>
+        <item>İlham Aliyev</item>
+        <item>Philippe</item>
+        <item>Jair Bolsonaro</item>
+        <item>Şi Cinping</item>
+        <item>II. Margrethe</item>
+        <item>Moon Jae-in</item>
+        <item>Ram Nath Kovind</item>
+        <item>Sergio Mattarella</item>
+        <item>Naruhito</item>
+        <item>II. Elizabeth</item>
+        <item>Andrés Manuel López Obrador</item>
+        <item>Andrzej Duda</item>
+        <item>Marcelo Rebelo de Sousa</item>
+        <item>Vladimir Putin</item>
+        <item>Maha Vajiralongkorn</item>
+        <item>Kays Said</item>
+        <item>Recep Tayyip Erdoğan</item>
+        <item>Kurbankulu Berdimuhammedov</item>
+        
+    </string-array>
+        
+        
+        
+        
+    
+    
+  
+</resources>
